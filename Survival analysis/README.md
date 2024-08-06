@@ -6,14 +6,14 @@
 ### Project Structure
 
 <p align="left">
-  - 📑 <strong>Data:</strong> The dataset used for this analysis is sourced from Loprinzi CL. Laurie JA. Wieand HS. et al., "Prospective evaluation of prognostic variables from patient-completed questionnaires," Journal of Clinical Oncology, 1994. It includes data on survival times and various patient characteristics. The dataset contains 200 observations and 6 variables.<br>
+  - 📑 <strong>Data:</strong> The dataset used for this analysis is sourced from Kaggle. It includes data on survival times and various patient characteristics. The dataset contains 200 observations and 6 variables.<br>
   - 📊 <strong>Data Preparation:</strong> Clean and preprocess the data, including handling missing values.<br>
   - 🔎 <strong>Survival Analysis Techniques:</strong> This project explores the following survival analysis methods: the Kaplan-Meier Estimator, which is a non-parametric statistic used to estimate the survival function from lifetime data; the Cox Proportional Hazards Model, a semi-parametric model that examines the relationship between survival time and one or more predictor variables; and the Accelerated Failure Time (AFT) Model, a parametric model that directly models the survival time.<br></p>
 
 ### Key Files
 
 <p align="left">
-  - <tt>Dengue_Fever_survival.py</tt>: Scripts for implementing and visualizing the survival analysis techniques.<br>
+  - <tt>dengue__survival_analysis.py</tt>: Scripts for implementing and visualizing the survival analysis techniques.<br>
   - <tt>Survival Analisys.xlsx/</tt>: The data file used for the analysis..<br>
   - <tt>README.md</tt>: This file, providing an overview and instructions for the project.<br></p>
 
